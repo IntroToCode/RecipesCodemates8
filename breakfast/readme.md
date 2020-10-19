@@ -2,7 +2,7 @@
 
 ## Servings: 2
 
-## Time to prepare: 30
+## Time to prepare: 5 mins
 
 ## Ingredients: 3 Eggs
 
