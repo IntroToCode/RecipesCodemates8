@@ -1,20 +1,23 @@
 # Replace with recipe name
 
-## Servings: 
+## Servings: 2
 
-## Time to prepare: 
+## Time to prepare: 30
 
-## Ingredients:
-
-
-## Equipment needed:
+## Ingredients: 3 Eggs
 
 
-## Steps for preparation:
+## Equipment needed: Whisk
 
 
+## Steps for preparation: 
+Crack eggs into a mixing bowl
+Whisk until egg whites and yolks are completely combined
+Pour into frying pan over medium heat
+Cook to taste
 
-### Notes:
+
+### Notes: Whisk until frothy
 
 
 
