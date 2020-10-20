@@ -20,15 +20,11 @@
  green onions, diced into thin rounds for garnishing
  sesame seeds, for garnishing
 
-
-
 ## Equipment needed:
 Large bowl
 Measuring cups
 Measuring spoons
 Skillet
-
-
 
 ## Steps for preparation:
 
@@ -39,7 +35,6 @@ Skillet
 After the pork has cooked through, add the cornstarch slurry to the side of the pan (don’t dump it over the chicken), turn the heat to medium-low, and gently stir the slurry into into the pan sauce. Keep stirring for about 1 to 2 minutes, or until sauce has thickened up to desired level. Spoon the thickened sauce over the pork or just flip them around in the sauce to coat them evenly. Note – the cornstarch addition is not absolutely necessary but it will help make the sauce thicker and with more body rather as opposed to runny and find the extra 1 to 2 minutes worth it.
 
 Remove pan from the heat, add the green onions, sesame seeds, and serve immediately. Pork is best warm and fresh but will keep for up to 5 days in the fridge.
-
 
 ### Notes:
 
