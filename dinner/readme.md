@@ -5,7 +5,7 @@
 ## Time to prepare: (1-8 hr. prep) 30 min. cook time
 
 ## Ingredients:
-2 lbs. pork
+2 lbs. pork (can substitute with tofu as a vegetarian option)
 1/3 cup gochujang sauce
  1/4 cup reduced-sodium soy sauce
  2 tablespoons sesame oil
@@ -43,5 +43,5 @@ You can do this with any other meat (e.g., chicken, beef)
 ### Codemates #
 
 Team @RecipesCodemates8
-Working in conjunction with @jzofficial66 
+Working in conjunction with @wyattmdavis
 Asking @baldjeff and @dhruvkc for review and pull request approval
