@@ -5,7 +5,7 @@
 ## Time to prepare: (1-8 hr. prep) 30 min. cook time
 
 ## Ingredients:
-2 lbs. pork
+2 lbs. pork (can substitute with tofu as a vegetarian option)
 1/3 cup gochujang sauce
  1/4 cup reduced-sodium soy sauce
  2 tablespoons sesame oil
@@ -20,15 +20,11 @@
  green onions, diced into thin rounds for garnishing
  sesame seeds, for garnishing
 
-
-
 ## Equipment needed:
 Large bowl
 Measuring cups
 Measuring spoons
 Skillet
-
-
 
 ## Steps for preparation:
 
@@ -40,7 +36,6 @@ After the pork has cooked through, add the cornstarch slurry to the side of the 
 
 Remove pan from the heat, add the green onions, sesame seeds, and serve immediately. Pork is best warm and fresh but will keep for up to 5 days in the fridge.
 
-
 ### Notes:
 
 You can do this with any other meat (e.g., chicken, beef)
@@ -48,5 +43,5 @@ You can do this with any other meat (e.g., chicken, beef)
 ### Codemates #
 
 Team @RecipesCodemates8
-Working in conjunction with @jzofficial66 
+Working in conjunction with @wyattmdavis
 Asking @baldjeff and @dhruvkc for review and pull request approval
