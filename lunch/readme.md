@@ -1,8 +1,8 @@
 # Honey Garlic Chicken (or Tofu) Recipe + Fried Rice
 
-## Servings: 6 people
+## Servings: 6 normal people, 4 college students, or 1 Joe Choi
 
-## Time to prepare: 30 mins total
+## Time to prepare: 20 mins prep, 30 mins cooking
 
 ## Ingredients:
 - 6 chicken thighs, bone in or out, with or without skin*
