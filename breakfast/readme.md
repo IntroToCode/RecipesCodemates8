@@ -1,5 +1,7 @@
 # Eggs a la Scramble 
 
+![Breakfast Picture](https://www.rachaelraymag.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTQ3ODUyNDkxNDQ5NzA2NDE4/egg-and-avocado-toast-101899116.jpg)
+
 ### Servings: 2
 ### Cooking Time: 5 mins
 ### Ingredients: 3 Eggs
