@@ -6,7 +6,7 @@
 
 #### Time to prepare: 2 hours Prep; 30 min Cook Time
 
-## Ingredients:
+#### Ingredients:
 - 2 lbs. pork
 - 1/3 cup gochujang sauce
 - 1/4 cup reduced-sodium soy sauce
@@ -22,13 +22,13 @@
 - green onions, diced into thin rounds for garnishing
 - sesame seeds, for garnishing
 
-## Equipment needed:
+#### Equipment needed:
 - Large bowl
 - Measuring cups
 - Measuring spoons
 - Skillet
 
-## Steps for preparation:
+#### Steps for preparation:
 1) To a large bowl, add the gochujang sauce, soy sauce, sesame oil, vinegar, brown sugar, ginger, garlic, and stir to combine.
 2) Add the pork, cover, and place in the fridge to marinate for at least 1 hour, or up to 8 hours.
 3) To a large skillet, add the olive oil, and using a slotted spoon add the chicken (discard leftover marinade), and cook over medium-high heat for about 5 to 7 minutes, or until pork is cooked through; flip intermittently to ensure even cooking.
@@ -45,17 +45,17 @@ After the pork has cooked through, add the cornstarch slurry to the side of the 
 
 #### Time to prepare: 5 minutes
 
-## Ingredients:
+#### Ingredients:
 - Fresh Strawberries
 - Biscuit
 - Whipped Cream
 
-## Equipment needed:
+#### Equipment needed:
 - Bowl
 - Knife
 - Oven
 
-## Steps for preparation:
+#### Steps for preparation:
 1. Pre-heat oven to 350 degrees
 2. While oven is heating, cut strawberries
 3. Heat biscuit in oven for 5 minutes
