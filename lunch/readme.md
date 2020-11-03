@@ -5,19 +5,19 @@
 ## Time to prepare: 30 mins total
 
 ## Ingredients:
-  6 chicken thighs, bone in or out, with or without skin*
+- 6 chicken thighs, bone in or out, with or without skin*
   OR 1 pound firm tofu
-  <br>Salt and pepper, to season
-<br>2 teaspoons garlic powder, to season
-<br>6 cloves garlic, crushed
-<br>1/3 cup honey
-<br>1/4 cup water (or chicken broth)
-<br>2 tablespoons rice wine vinegar (or apple cider vinegar, or any white vinegar)
-<br>3 tablespoon soy sauce
-<br>2 cups uncooked rice
-<br>1/2 cup peas
-<br>1/2 cup chopped carrots
-<br>2 eggs (optional)
+- Salt and pepper, to season
+- teaspoons garlic powder, to season
+- cloves garlic, crushed
+- 1/3 cup honey
+- 1/4 cup water (or chicken broth)
+- 2 tablespoons rice wine vinegar (or apple cider vinegar, or any white vinegar)
+- 3 tablespoon soy sauce
+- 2 cups uncooked rice
+- 1/2 cup peas
+- 1/2 cup chopped carrots
+- 2 eggs (optional)
 ## Equipment needed:
 <br>Mixing bowl
 <br>Pan or skillet x2
