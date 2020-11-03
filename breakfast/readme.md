@@ -16,7 +16,7 @@
 
 # Avocado Toast 
 
-### Servings: 2 hipsters
+### Servings: 2 hipsters or 1 fiscally irresponsible millenial
 ### Cooking Time: 5 mins
 ### Ingredients: 
 - 2 Slices of Bread
@@ -34,7 +34,7 @@
 ### Servings: 4 hipsters
 ### Prep Time: 12 hours and 15 minutes
 ### Ingredients: 
-- 1 cup (113 grams) whole coffee beans
+- 1 cup (113 grams) whole coffee beans (decaf coffee beans can be used as well)
 - 4 cups (907 grams) water
 ### Equipment Needed:
 - Coffee or spice grinder
