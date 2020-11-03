@@ -5,13 +5,13 @@
 ## Time to prepare: 20 mins prep, 30 mins cooking
 
 ## Ingredients:
-- 6 chicken thighs, bone in or out, with or without skin*
+- 6 chicken thighs, bone in or out, with or without skin* (Can also substitute Seitan or Tempeh as vegan protein)
   OR 1 pound firm tofu
 - Salt and pepper, to season
 - teaspoons garlic powder, to season
 - cloves garlic, crushed
 - 1/3 cup honey
-- 1/4 cup water (or chicken broth)
+- 1/4 cup water (or chicken/vegetable broth)
 - 2 tablespoons rice wine vinegar (or apple cider vinegar, or any white vinegar)
 - 3 tablespoon soy sauce
 - 2 cups uncooked rice
