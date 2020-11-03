@@ -2,9 +2,9 @@
 
 ![Dinner Image](https://i2.wp.com/seonkyounglongest.com/wp-content/uploads/2019/09/Pork-Bulgogi-15.jpg?fit=1300%2C867&ssl=1)
 
-#### Servings: 2-4
+#### Servings: 4 or 2 hungry people
 
-#### Time to prepare: 1-8hr Prep; 30 min Cook Time
+#### Time to prepare: 2 hours Prep; 30 min Cook Time
 
 ## Ingredients:
 - 2 lbs. pork
@@ -56,7 +56,7 @@ After the pork has cooked through, add the cornstarch slurry to the side of the 
 - Oven
 
 ## Steps for preparation:
-1. Pre-heat oven to 300 degrees
+1. Pre-heat oven to 350 degrees
 2. While oven is heating, cut strawberries
 3. Heat biscuit in oven for 5 minutes
 4. Place biscuit in bowl
