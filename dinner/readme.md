@@ -1,4 +1,4 @@
-# Korean Spicy Pork
+# Korean Spicy Pork (or Tofu!)
 
 ![Dinner Image](https://i2.wp.com/seonkyounglongest.com/wp-content/uploads/2019/09/Pork-Bulgogi-15.jpg?fit=1300%2C867&ssl=1)
 
@@ -7,7 +7,7 @@
 #### Time to prepare: 2 hours Prep; 30 min Cook Time
 
 #### Ingredients:
-- 2 lbs. pork
+- 2 lbs. pork (or substiture with spiced Tofu of your choice)
 - 1/3 cup gochujang sauce
 - 1/4 cup reduced-sodium soy sauce
 - 2 tablespoons sesame oil
@@ -15,7 +15,7 @@
 - 2 tablespoons light brown sugar, packed
 - 2 teaspoons ground ginger
 - 4 to 5 cloves garlic, finely minced or pressed
-- 1 1/2 pounds boneless skinless chicken breasts, diced into bite sized pieces
+- 1 1/2 pounds boneless skinless chicken breasts, diced into bite sized pieces (can substitute sauteed Seitan here)
 - 2 tablespoons olive oil
 - 1 teaspoon cornstarch
 - 1 scant teaspoon cold water
