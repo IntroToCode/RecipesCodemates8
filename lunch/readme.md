@@ -1,5 +1,7 @@
 # Honey Garlic Chicken (or Tofu) Recipe + Fried Rice
 
+![Lunch Pic](https://cafedelites.com/wp-content/uploads/2016/09/Honey-Garlic-Chicken-IMAGE-1.jpg)
+
 ## Servings: 6 normal people, 4 college students, or 1 Joe Choi
 
 ## Time to prepare: 20 mins prep, 30 mins cooking
