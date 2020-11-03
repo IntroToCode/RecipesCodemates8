@@ -1,7 +1,7 @@
 # Eggs a la Scramble 
 
 ### Servings: 2
-### Prep Time: 5 mins
+### Cooking Time: 5 mins
 ### Ingredients: 3 Eggs
 ### Equipment needed: Whisk
 
@@ -14,8 +14,8 @@
 
 # Avocado Toast 
 
-### Servings: 2
-### Prep Time: 5 mins
+### Servings: 2 hipsters
+### Cooking Time: 5 mins
 ### Ingredients: 
 - 2 Slices of Bread
 - 1 Avocado
@@ -29,7 +29,7 @@
 
 # Optional: Cold Brew Coffee
 
-### Servings: 4
+### Servings: 4 hipsters
 ### Prep Time: 12 hours and 15 minutes
 ### Ingredients: 
 - 1 cup (113 grams) whole coffee beans
