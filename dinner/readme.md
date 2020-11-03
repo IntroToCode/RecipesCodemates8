@@ -1,11 +1,13 @@
-# Korean Spicy Pork
+# Korean Spicy Pork (or Tofu!)
 
-#### Servings: 2-4
+![Dinner Image](https://i2.wp.com/seonkyounglongest.com/wp-content/uploads/2019/09/Pork-Bulgogi-15.jpg?fit=1300%2C867&ssl=1)
 
-#### Time to prepare: 1-8hr Prep; 30 min Cook Time
+#### Servings: 4 or 2 hungry people
 
-## Ingredients:
-- 2 lbs. pork
+#### Time to prepare: 2 hours Prep; 30 min Cook Time
+
+#### Ingredients:
+- 2 lbs. pork (or substiture with spiced Tofu of your choice)
 - 1/3 cup gochujang sauce
 - 1/4 cup reduced-sodium soy sauce
 - 2 tablespoons sesame oil
@@ -13,20 +15,20 @@
 - 2 tablespoons light brown sugar, packed
 - 2 teaspoons ground ginger
 - 4 to 5 cloves garlic, finely minced or pressed
-- 1 1/2 pounds boneless skinless chicken breasts, diced into bite sized pieces
+- 1 1/2 pounds boneless skinless chicken breasts, diced into bite sized pieces (can substitute sauteed Seitan here)
 - 2 tablespoons olive oil
 - 1 teaspoon cornstarch
 - 1 scant teaspoon cold water
 - green onions, diced into thin rounds for garnishing
 - sesame seeds, for garnishing
 
-## Equipment needed:
+#### Equipment needed:
 - Large bowl
 - Measuring cups
 - Measuring spoons
 - Skillet
 
-## Steps for preparation:
+#### Steps for preparation:
 1) To a large bowl, add the gochujang sauce, soy sauce, sesame oil, vinegar, brown sugar, ginger, garlic, and stir to combine.
 2) Add the pork, cover, and place in the fridge to marinate for at least 1 hour, or up to 8 hours.
 3) To a large skillet, add the olive oil, and using a slotted spoon add the chicken (discard leftover marinade), and cook over medium-high heat for about 5 to 7 minutes, or until pork is cooked through; flip intermittently to ensure even cooking.
@@ -43,18 +45,18 @@ After the pork has cooked through, add the cornstarch slurry to the side of the 
 
 #### Time to prepare: 5 minutes
 
-## Ingredients:
+#### Ingredients:
 - Fresh Strawberries
 - Biscuit
 - Whipped Cream
 
-## Equipment needed:
+#### Equipment needed:
 - Bowl
 - Knife
 - Oven
 
-## Steps for preparation:
-1. Pre-heat oven to 300 degrees
+#### Steps for preparation:
+1. Pre-heat oven to 350 degrees
 2. While oven is heating, cut strawberries
 3. Heat biscuit in oven for 5 minutes
 4. Place biscuit in bowl
