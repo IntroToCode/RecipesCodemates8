@@ -1,5 +1,7 @@
 # Korean Spicy Pork
 
+![Dinner Image](https://i2.wp.com/seonkyounglongest.com/wp-content/uploads/2019/09/Pork-Bulgogi-15.jpg?fit=1300%2C867&ssl=1)
+
 #### Servings: 2-4
 
 #### Time to prepare: 1-8hr Prep; 30 min Cook Time
